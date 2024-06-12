@@ -2,6 +2,7 @@
 
 #### Project Colab Link - 
 https://colab.research.google.com/drive/13BrGqDpS2IlQXDA6K3_floWLOOdbT6kz?usp=sharing
+
 This repository contains a deep learning project focused on classifying brain tumor MRI images into four categories: glioma, meningioma, no tumor, and pituitary tumor. The project leverages convolutional neural networks (CNNs) and PyTorch to achieve high accuracy in distinguishing between different types of brain tumors.
 
 #### Project Overview
